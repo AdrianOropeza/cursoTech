@@ -1,0 +1,3 @@
+# LA CLAVE
+
+Debes empezar a tener cuidado con las variables de entorno
