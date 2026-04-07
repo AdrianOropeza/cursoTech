@@ -1,3 +1,4 @@
-nombre = "Adrian Oropeza"
+nombre = "Adrian Antonio Oropeza Lopez"
+edad = 28
 
-print("hola " + nombre)
+print("hola " + nombre + " tienes " + str(edad) + " años")
